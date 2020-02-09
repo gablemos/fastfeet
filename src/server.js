@@ -1,7 +1,3 @@
-let x = 0
+import app from './app'
 
-while (true)
-{
-  x = 1 + x
-  console.log(x)
-}
+app.listen(4444)
