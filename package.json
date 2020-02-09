@@ -1,0 +1,8 @@
+{
+  "name": "fastfeet",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/gablemos/Fastfeet.git",
+  "author": "Gabriel Lemos <gabrielelias.lemos@gmail.com>",
+  "license": "MIT"
+}
