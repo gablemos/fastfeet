@@ -7,7 +7,7 @@ module.exports = {
     'airbnb-base',
     'prettier'
   ],
-  plugions: [
+  plugins: [
     'prettier'
   ],
   globals: {
@@ -19,7 +19,7 @@ module.exports = {
     sourceType: 'module',
   },
   rules: {
-    "prettier/prettier":  [
+    "prettier/prettier": [
       "error",
       {
         "singleQuote": true,
